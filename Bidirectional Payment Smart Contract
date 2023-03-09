@@ -1,5 +1,3 @@
-#Bidirectional Payment Smart Contract
-
 This smart contract allows for two participants to perform bidirectional payments, where each participant can transfer and receive funds to and from the other participant. The smart contract is implemented using Solidity programming language and can be deployed on any blockchain that supports the Ethereum Virtual Machine.
 
 Requirements
